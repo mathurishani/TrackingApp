@@ -49,7 +49,9 @@ const styles = StyleSheet.create({
     width: 90,
     height: 80,
     position: "absolute",
+
     backgroundColor: "#4b0082",
+
     borderWidth: 2,
     borderColor: "rgba(255,255,255,1)"
   },
@@ -80,7 +82,7 @@ const styles = StyleSheet.create({
     width: 90,
     height: 80,
     position: "absolute",
-    backgroundColor: "rgba(0,151,136,1)",
+    backgroundColor: "#b0c4de",
     borderWidth: 2,
     borderColor: "rgba(255,255,255,1)"
   },
