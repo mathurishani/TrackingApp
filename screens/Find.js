@@ -49,7 +49,7 @@ const styles = StyleSheet.create({
     width: 90,
     height: 80,
     position: "absolute",
-    backgroundColor: "rgba(255,151,0,1)",
+    backgroundColor: "#4b0082",
     borderWidth: 2,
     borderColor: "rgba(255,255,255,1)"
   },
